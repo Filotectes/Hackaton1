@@ -21,3 +21,5 @@ QA: pruebas del sistema y validar si soporta
 
 -	CBS
 -	GIT: SISTEMA DE CONTROL DE VERSIONES DISTRIBUIDO
+
+![alt text](https://www.nettix.com.pe/wp-content/uploads/2020/02/img-1024x511.png "Pachaqtec")
